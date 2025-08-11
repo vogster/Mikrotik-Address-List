@@ -87,4 +87,15 @@ add address=104.244.42.132 comment=Twitter list=vpn-twitter
 add address=69.195.179.128 comment=Twitter list=vpn-twitter
 add address=104.244.43.131 comment=Twitter list=vpn-twitter
 add address=69.195.169.128 comment=Twitter list=vpn-twitter
-add address=x.com list=vpn-twitter
+add address=x.com list=vpn-twitter comment=Twitter 
+add address=abs.twimg.com comment=Twitter list=vpn-twitter
+add address=abs-0.twimg.com comment=Twitter list=vpn-twitter
+add address=pbs.twimg.com comment=Twitter list=vpn-twitter
+add address=video.twimg.com comment=Twitter list=vpn-twitter
+add address=104.18.37.127 comment=Twitter list=vpn-twitter
+add address=172.64.150.129 comment=Twitter list=vpn-twitter
+add address=151.101.36.159 comment=Twitter list=vpn-twitter
+add address=104.18.36.146 comment=Twitter list=vpn-twitter
+add address=172.64.151.110 comment=Twitter list=vpn-twitter
+add address=162.159.140.229 comment=Twitter list=vpn-twitter
+add address=172.66.0.227 comment=Twitter list=vpn-twitter
